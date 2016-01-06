@@ -32,7 +32,7 @@ An open-source version of HubSpot's Facewall and Facewall game.
 
 Facewall is a [Brunch](https://github.com/brunch/brunch) app. To run it with no authentication simply run the following:
 
-    brunch watch --server -p PORT
+    npm start
 
 Then navigate to:
 
