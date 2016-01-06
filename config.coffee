@@ -47,3 +47,4 @@ exports.config =
 
     server:
         base: '/facewall'
+        port: 5000
